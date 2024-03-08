@@ -15,7 +15,6 @@ directamente a una API de lenguaje para poder generar el texto automáticamente 
 
 
 LISTA DE TAREAS:
-- Me he quedado en "información de la tienda online" (si procede)... tengo que rellenarlo, está vacío. No olvidar los botones de sección anterior y sección siguiente.
-- Cuando aprenda a hacer tablas, tengo que terminar de rellenar la tabla de inspiración (plantilla, logo y colores globales).
-- Tengo que poner la información del cliente (la tabla que originalmente iría en "inspiración y material") en la página principal y en la página de principales datos, cuando aprenda a hacer tablas en html. 
-- Recordar que "ESTRUCTURA Y GENERALES" se llama "información global y estructura de la web", y ya está creado el correspondiente .html
+- Me quedé por estructura global. Seguir a partir de ahí con "creación de servidor"
+
+- Cuando aprenda a hacer tablas, tengo que revisar todas las secciones donde me faltan tablas
