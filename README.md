@@ -15,6 +15,8 @@ directamente a una API de lenguaje para poder generar el texto automáticamente 
 
 
 LISTA DE TAREAS:
-- Me quedé por estructura global. Seguir a partir de ahí con "creación de servidor"
-
+- Rellenar el botón "siguiente" del custom post type.
+- Rellenar todos los boilerplates + botones de todas las páginas
+- Me quedé en "Configuración inicial Woocommerce" (incluir toda la info final de configuración woocommerce)
+- (incluir toda la info final de custom post en la página de custom post ya creada)
 - Cuando aprenda a hacer tablas, tengo que revisar todas las secciones donde me faltan tablas
