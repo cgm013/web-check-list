@@ -15,8 +15,8 @@ directamente a una API de lenguaje para poder generar el texto automáticamente 
 
 
 LISTA DE TAREAS:
-- Rellenar el botón "siguiente" del custom post type.
-- Rellenar todos los boilerplates + botones de todas las páginas
-- Me quedé en "Configuración inicial Woocommerce" (incluir toda la info final de configuración woocommerce)
+- Me quedé en "posts del Blog"
+- (incluir toda la info final de configuración woocommerce en "configuración inicial Woocommerce")
 - (incluir toda la info final de custom post en la página de custom post ya creada)
 - Cuando aprenda a hacer tablas, tengo que revisar todas las secciones donde me faltan tablas
+- Crear un nuevo prompt de ChatGPT en "configuración inicial Woocommerce" en caso de que haya que inventarse productos (con nombre, descripción, descripción corta, precio, categoría) de al menos 10 productos en formato tabla

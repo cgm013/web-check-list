@@ -7,6 +7,65 @@
 </head>
 <body>
 <h1>Configuración de Woocommerce</h1>
+<h2>Condiciones de envío y pago</h2>
+<ul>
+    <li>Precio de envío esándar: [ENVIOES]</li>
+    <li>Gratis a partir de: [ENVIOGRA] €</li>
+    <li>Número de cuenta: [CUENTA]</li>
+</ul>
+<h3>[] Condiciones de envío establecidas</h3>
+<h2>Categorías de productos</h2>
+<ul>
+    <li>Uncategorized cambia a: [UNCATEGORIZEDWOO]</li>
+    <li><em>(Categoría de producto)</em></li>
+    <li><em>(Categoría de producto)</em></li>
+    <li><em>(Categoría de producto)</em></li>
+    <li><em>(Categoría de producto)</em></li>
+    <li><em>(Categoría de producto)</em></li>
+</ul>
+<h2>lista de productos</h2>
+<p>Nombre | Descripción | Descripción corta | Precio | Categoría | Otros</p>
+<p><em>(insertar aquí un producto)</em></p>
+<p><em>(insertar aquí un producto)</em></p>
+<p><em>(insertar aquí un producto)</em></p>
+<p><em>(insertar aquí un producto)</em></p>
+<p><em>(insertar aquí un producto)</em></p>
+<p><em>(insertar aquí un producto)</em></p>
+<p><em>(insertar aquí un producto)</em></p>
+<p><em>(insertar aquí un producto)</em></p>
+<p><em>(insertar aquí un producto)</em></p>
+<p><em>(insertar aquí un producto)</em></p>
+<h3>[] Lista de productos recogida</h3>
+<h2>Configuración en sí y de la tienda online</h2>
+<ol>
+    <li>Rellenar asistente de configuración Woocommerce (con dirección, sector, tipos de productos...)</li>
+    <li>En ajustes woocommerce, comprobar geolocalización, check en los impuestos, configurar moneda €</li>
+    <li>Ajustes productos Woocommerce (desactivar llevar a carrito, activar AJAX, mantener prod. 60 minuyos, avisos inventario)</li>
+    <li>Configurar impuestos (no redondear, mostrar impuestos incluidos en precio...)</li>
+    <li>Configurado IVA (ES, 21%, compuesto no check, envío no check)</li>
+    <li>Envíos configurados (recomendados: recogida en tienda, estándar gratis a partir de)
+        <ul>
+            <li>Recogida en tienda: Método recogida local, impuesto ninguno, coste 0</li>
+            <li>Estandar: Método precio fijo, impuesto ninguno, coste [ENVIOES]</li>
+            <li>Gratis a partir de: método cantidad mínima, cupones check, precio mínimo gratis [ENVIOGRA]</li>
+    </ul>
+    </li>
+    <li>Ajustes de pagos
+        <ul>
+            <li>Pago por transferencia bancaria configurado (Tu pedido no estará confirmado
+                hasta que no hayamos recibido el pago en nuestra cuenta.
+                El pedido se cancelará transcurridas 72 horas sin haber recibido el pago.)
+                (Número de cuenta [CUENTA])</li>
+            <li>Stripe configurado (plugin, clave pública y secreta, y webhook)</li>
+        </ul>
+    </li>
+    <li>Escoger o revisar enlace a cada página por defecto de woocommerce</li>
+    <li>Creadas las categorías de productos y modificado uncategorized</li>
+    <li>Incluir categorías en maquetación de temas y menú header (si procede)</li>
+    <li>introducción de los productos en la base de datos de Woocommerce</li>
+</ol>
+<h3>[] Tienda online configurada</h3>
+<h3>[] Productos introducidos</h3>
 <a href="custom-post.html">Sección anterior: Creación de custom post type (si procede)</a>
 <a href="../index.html">Volver a página principal</a>
 <a href="posts.html">Siguiente sección: Posts del blog</a>
